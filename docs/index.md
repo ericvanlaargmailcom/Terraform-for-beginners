@@ -21,8 +21,8 @@ What Can I Build in Azure?
 * Databases
 * Functions as a Service
 * Much, much more...
-]
-What can I build in Azure? Just about anything! The beauty of the cloud is that it allows organizations and companies to rent their infrastructure. Traditionally if you wanted to run an application you'd either need to build your own data center or lease some space from a data center provider. You could then buy a bunch of servers, install your operating system and application on them and configure your application for use. Most companies do not want to be in the business of running data centers.  And guess what - Microsoft is really good at this. They have a ton of experience and huge teams of people to maintain the hardware and network connectivity that you need, and you can simply rent your resources by the hour (or even by the minute).  It's pay-as-you go computing that you use just like a utility. Imagine I have three faucets, labeled compute, network, and storage. I can turn on as much as I need, run it for as long as I want, and then shut it off when I'm done using it. Those resources I was using are returned back to the pool of compute, network and storage.
+
+So, what can I build in Azure? Just about anything! The beauty of the cloud is that it allows organizations and companies to rent their infrastructure. Traditionally if you wanted to run an application you'd either need to build your own data center or lease some space from a data center provider. You could then buy a bunch of servers, install your operating system and application on them and configure your application for use. Most companies do not want to be in the business of running data centers.  And guess what - Microsoft is really good at this. They have a ton of experience and huge teams of people to maintain the hardware and network connectivity that you need, and you can simply rent your resources by the hour (or even by the minute).  It's pay-as-you go computing that you use just like a utility. Imagine I have three faucets, labeled compute, network, and storage. I can turn on as much as I need, run it for as long as I want, and then shut it off when I'm done using it. Those resources I was using are returned back to the pool of compute, network and storage.
 
 What is Terraform?
 -------------------------
@@ -32,7 +32,6 @@ What is Terraform?
 * Easy to learn
 * Test, share, re-use, automate
 * Works on all major cloud providers
-]
 
 Terraform is the DNA of your infrastructure.
 
