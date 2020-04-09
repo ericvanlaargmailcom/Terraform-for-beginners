@@ -13,7 +13,7 @@ What is Microsoft Azure?
 Microsoft Azure is a cloud computing platform that you can use to run your infrastructure and applications. 
 
 What Can I Build in Azure?
-.contents[
+
 * Linux Virtual Machines
 * Windows Virtual Machines
 * Containers
